@@ -24,22 +24,27 @@ public class Compresser
         string compressedText = String.Empty;
         
         int count_of_number = 1;
-        for (int i = 0; i < text.Length-1; i++)
+        for (int i = 0; i < text.Length; i++)
         {
+            if (i == text.Length-1)
+            {
+                compressedText += text[i-1] + count_of_number.ToString();
+                break;
+            }
+            
             if (text[i] == text[i + 1])
             {
                 count_of_number++;
             }
             else
             {
-                compressedText += text[i] + "-" + count_of_number.ToString() + ",";
-                count_of_number = 1;
+                compressedText += text[i] + count_of_number.ToString();
             }
+            
         }
         string nameOfFile = file.Name.Split(".")[0].Split("/")[^1];
                 
         Console.WriteLine(compressedText);
-        Console.WriteLine(nameOfFile);
         
         CreateCompressedFile(compressedText, nameOfFile + ".hlibzip");
         
