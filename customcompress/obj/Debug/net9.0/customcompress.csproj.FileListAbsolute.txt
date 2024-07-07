@@ -1,0 +1,15 @@
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/bin/Debug/net9.0/customcompress
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/bin/Debug/net9.0/customcompress.deps.json
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/bin/Debug/net9.0/customcompress.runtimeconfig.json
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/bin/Debug/net9.0/customcompress.dll
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/bin/Debug/net9.0/customcompress.pdb
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/obj/Debug/net9.0/customcompress.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/obj/Debug/net9.0/customcompress.AssemblyInfoInputs.cache
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/obj/Debug/net9.0/customcompress.AssemblyInfo.cs
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/obj/Debug/net9.0/customcompress.csproj.CoreCompileInputs.cache
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/obj/Debug/net9.0/customcompress.sourcelink.json
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/obj/Debug/net9.0/customcompress.dll
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/obj/Debug/net9.0/refint/customcompress.dll
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/obj/Debug/net9.0/customcompress.pdb
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/obj/Debug/net9.0/customcompress.genruntimeconfig.cache
+/Users/glebegor/Programming/projects/my/customzip/customcompress/customcompress/obj/Debug/net9.0/ref/customcompress.dll

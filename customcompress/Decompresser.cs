@@ -1,3 +1,5 @@
+
+
 namespace customcompress;
 
 public class Decompresser
@@ -11,18 +13,18 @@ public class Decompresser
         _decompressedFilePath = String.Empty;
     }
     
-    public void getFile(string compressedFilePath)
+    public void GetFile(string compressedFilePath)
     {
         _compressedFilePath = compressedFilePath;
     }
     
-    public bool decompressFile()
+    public bool DecompressFile()
     {
         
         return true;
     }
     
-    public bool createDecompressedFile()
+    public bool CreateDecompressedFile()
     {
         
         return true;
