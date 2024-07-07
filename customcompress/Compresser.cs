@@ -2,24 +2,28 @@ namespace customcompress;
 
 public class Compresser
 {
+    private string _filePath;
+    private string _compressedFilePath;
+    
     public Compresser()
     {
-        // Compresser constructor
+        _filePath = String.Empty;
+        _compressedFilePath = String.Empty;
     }
 
-    public getFile()
+    public void GetFile(string filePath)
     {
-        // getFile method
+        _filePath = filePath;
     }
     
-    public bool compressFile()
+    public bool CompressFile()
     {
-        // compressFile method
+        return true;
     }
     
-    public bool createCompressedFile()
+    public bool CreateCompressedFile()
     {
-        // createCompressedFile method
+        return true;
     }
     
 }
